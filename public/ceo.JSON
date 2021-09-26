@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1abc",
+      "name": "Tim Cook",
+      "company": "Apple Incorporation",
+      "nationality": "American",
+      "age": 66,
+      "Salary": 55000000,
+      "img": "https://pbs.twimg.com/profile_images/1403556543098916872/83tVAzyy_400x400.jpg"
+    },
+    {
+      "id": "2bcd",
+      "name": "Sundor Pichai",
+      "company": "Google Incorporation",
+      "nationality": "American",
+      "age": 46,
+      "Salary": 53000000,
+      "img": "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg"
+    },
+    {
+      "id": "3efg",
+      "name": "Sattya Nadela",
+      "company": "Microsoft ",
+      "nationality": "American",
+      "age": 48,
+      "Salary": 49000000,
+      "img": "https://cdn.vox-cdn.com/thumbor/k_EaMfAhfbXn40BMkE0aBq3YI7o=/0x0:640x427/1400x1400/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/3666711/satyanadella.jpg"
+    },
+    {
+      "id": "4hij",
+      "name": "Elon musk",
+      "company": "Tesla Motors and Space X Corporation",
+      "nationality": "American",
+      "age": 47,
+      "Salary": 60000000,
+      "img": "https://static.dezeen.com/uploads/2021/06/elon-musk-architect_dezeen_1704_col_0.jpg"
+    },
+    {
+      "id": "5klm",
+      "name": "Mark Zukerburg",
+      "company": "Facbook Incorporation",
+      "nationality": "American",
+      "age": 38,
+      "Salary": 60000000,
+      "img": "https://www.mcknights.com/wp-content/uploads/sites/5/2020/04/page03_mzuckerberg_cmyk_400x400.jpg"
+    },
+    {
+      "id": "6nop",
+      "name": "Jeff Bezos",
+      "company": "Amazon Online Marketplace",
+      "nationality": "American",
+      "age": 54,
+      "Salary": 80000000,
+      "img": "https://www.inspirist.io/storage/uploads/images/jeff-bezos.jpg"
+    },
+    {
+      "id": "7qrs",
+      "name": "Jack Maa",
+      "company": "Ali Baba.Com",
+      "nationality": "American",
+      "age": 49,
+      "Salary": 42000000,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e22fe6df966b3fcbd3e15%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080"
+    },
+    {
+      "id": "8tuv",
+      "name": "Lee Zoon",
+      "company": "AMD Semiconductor",
+      "nationality": "American",
+      "age": 48,
+      "Salary": 38000000,
+      "img": "https://globalny.biz/usr/person/big-person-15896279981.jpg"
+    }
+  ]

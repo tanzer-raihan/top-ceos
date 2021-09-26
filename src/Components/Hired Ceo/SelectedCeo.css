@@ -1,0 +1,26 @@
+.selected-ceo{
+   display: flex;
+   justify-content:space-around;
+    align-items: center;
+    height: 60px;
+    width:150px;
+    padding:5px;
+    background-color:#222831;
+    border:1px solid #eddcd9;
+    border-radius: 10px;
+    margin-top: 15px;
+    color:#eddcd9;
+}
+
+.ceo-image{
+  width:50%;
+  border-radius: 50%;
+  border: 2px solid #272133;
+  box-shadow: 0 1px 15px rgba(235, 25, 110, 1);
+ 
+
+
+}
+.name{
+    margin-right: 10px;
+}

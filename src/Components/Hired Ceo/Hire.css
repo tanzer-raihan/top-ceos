@@ -1,0 +1,8 @@
+.hired-ceo{
+   display: flex;
+   flex-direction: column;
+
+}
+.added-person{
+    color:rgba(235, 25, 109, 0.753);
+}
